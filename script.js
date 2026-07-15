@@ -1,3 +1,4 @@
+
 /* =========================================================
    Farma Âncora — script principal
    Sem dependências, sem framework.
